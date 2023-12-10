@@ -3,9 +3,9 @@ const authConfig = {
   "siteIcon": "https://raw.githubusercontent.com/cheems/goindex-extended/master/images/favicon-x.png", //or fevicon-x-light.png
   "version": "1.4.1", // VersionControl, do not modify manually
   // client_id & client_secret - PLEASE USE YOUR OWN!
-  "client_id": "", // Client ID
-  "client_secret": "", // Client Secret
-  "refresh_token": "", // Refresh Token
+   "client_id": "746239575955-c4d2o1ahg4ts6ahm3a5lh5lp9g8m15h4.apps.googleusercontent.com", // Client id from Google Cloud Console
+  "client_secret": "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", // Client Secret from Google Cloud Console
+  "refresh_token": "1//0ehHwSBX2Cvm9CgYIARAAGA4SNwF-L9Ir4OYm52B1ucrovEEqprUq34RHYA4zUk0-rZ8WiDoP0o1ETrZlbxXyae7qafPUSjfk1ag", // Authorize token
   "folder_list_url": "", // Folder Id List(Only if you have any folders in roots) - Sample: https://cdn.jsdelivr.net/gh/cheems/goindex-extended@master/sample-files/sample-folder-id-list.txt
   // Crypt Secret must be 32 characters long - Sample: "1234567890123456abcdefghIJKLMN!*" | don't use these characters (\,/,",') 
   "crypt_secret": "", // Crypt Secret (Required)* This is used to encrypt file ids
